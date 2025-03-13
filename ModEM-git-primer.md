@@ -8,7 +8,7 @@ As an example, we will be using this repo: [https://github.com/MiCurry/Example-R
 
 Navigate to that repository and grab the git repository link:
 
-<img src="./Clone.png" width="400px">
+<img src="./Clone.png" width="800px">
 
 Note that this is different than the web address and end in the extension of
 .git, in this case grab the HTTPS link:
