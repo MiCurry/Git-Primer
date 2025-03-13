@@ -1,6 +1,6 @@
 # ModEM Git Primer
 
-Here is a short primer on using Git and the main differences between SVN.
+Here is a short primer on using Git.
 
 # Cloning a Repo (SVN Checkout)
 
