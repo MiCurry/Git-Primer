@@ -334,7 +334,7 @@ It all sounds like a lot, but it will be clear very shortly.
 Let's make a fork of the example repo so we can push to it. Go to the repo's
 webpage and click 'Fork':
 
-<img src="Forking.png" width="400px"/>
+<img src="Forking.png" width="800px"/>
 
 Then, leave the name and description the same and ensure that 'Copy the main
 branch only' is selected (should be selected by default).
@@ -398,15 +398,15 @@ scroll down and click the 'Pencil' icon on the README.md preview:
 
 Again, make sure you are on the **main branch** of *your* fork.
 
-<img src="EditReadme.png" width="400px"/>
+<img src="EditReadme.png" width="800px"/>
 
 Then, add a line or two to the README.md and click 'Commit Changes':
 
-<img src="MakeChange.png" width="400px"/>
+<img src="MakeChange.png" width="800px"/>
 
 Then, click 'Commit Changes' on the dialog that pops up:
 
-<img src="CommitIt.png" width="400px"/>
+<img src="CommitIt.png" width="800px"/>
 
 Now, our main branch has been updated with information that our local git clone
 does not know about, thus we will need up update it.
@@ -468,7 +468,7 @@ text that says 'Compare across forks'. For the both forks, select **your** fork.
 Then select `main` for the base branch and select `my_branch` for the compare
 branch.  Once you select your branches and remotes, you'll see a little preview:
 
-<img src="./ComparingChanges.png" width='400px'/>
+<img src="./ComparingChanges.png" width='800px'/>
 
 Do not be alarmed by the "Can't automatically merge". This is absolutely
 normal. GitHub is simply telling us that there is a merge conflict which we
@@ -850,7 +850,7 @@ Something that heleped me understand Git better was learning that it was
 a Directed Acyclic Graph (or DAG for short). That simply means, edges 
 have direction and there are no cycles or loops:
 
-<img src="./basic-merging-2.png" width='400px'/>
+<img src="./basic-merging-2.png" width='800px'/>
 
 Each commit points to one or more parent. Mostly, commits point to one, execpt
 for when merging. In the above image the commit `C6` is a merge commit, as it
